@@ -1,0 +1,9 @@
+1;Spiderman;This is a movie about spider-man;superhero;2000;
+2;Spiderman No Way Home;This is the best spider-man movie;superhero;2021;
+3;The Batman;Interesting movie;action;2022;
+4;How to train you dragon;It just came up to my mind;disney;2018;
+5;Hello Kitty;pspspspsppspspsps;animated;1999;
+6;The Hulk;IDK THIS MOVIE TBH;adventure;2000;
+7;The Nun;Horror ba;horror;1999;
+8;The Conjuring;this is a gaoegkaeg;horror;2000;
+9;gishgrishg;nfiaeogiaeohg;horror;2000;

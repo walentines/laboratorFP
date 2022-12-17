@@ -1,0 +1,4 @@
+6;Marius Paraschiv;5030917297311;16;
+4;Viorel Serban;5030917297313;17;
+3;Domnica Teodor;5030917297314;18;
+2;Clara Tacore;5030917297315;19;

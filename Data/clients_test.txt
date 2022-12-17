@@ -1,0 +1,10 @@
+1;Vali;5040917297311;19;;
+2;Clara Tacore;5030917297315;19;;
+3;Domnica Teodor;5030917297314;18;;
+4;Viorel Serban;5030917297313;17;;
+5;Andrei Diaconescu;5030917297312;21;;
+6;Marius Paraschiv;5030917297311;16;;
+7;Dumitru Constantin;5030917297310;19;;
+8;Dragos Slavescu;5030917297309;23;;
+9;Popovici;1234567891111;30;;
+10;Juice WRLD;5030917297307;25;;
